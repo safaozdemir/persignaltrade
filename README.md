@@ -2,6 +2,7 @@
 <img width="478" alt="2" src="https://github.com/safaozdemir/persignaltrade/assets/61314883/6e3e3bdf-c6d1-4941-a6a9-2e31e4ec4e2b">
 <img width="478" alt="3" src="https://github.com/safaozdemir/persignaltrade/assets/61314883/f437c1b6-7695-42cd-b0d6-75e5f4bb486c">
 <img width="478" alt="4" src="https://github.com/safaozdemir/persignaltrade/assets/61314883/1c1d80fb-e85a-4268-815e-0ec87073f4c7">
+<img width="478" alt="10" src="https://github.com/safaozdemir/persignaltrade/assets/61314883/b62d0d3e-94c7-4034-a6b1-166cdf3510aa">
 <img width="478" alt="5" src="https://github.com/safaozdemir/persignaltrade/assets/61314883/27880ef7-277f-4548-907b-8171d38cf828">
 <img width="478" alt="6" src="https://github.com/safaozdemir/persignaltrade/assets/61314883/fc6af0f4-7ec4-43d5-9012-d9fc4536c2df">
 <img width="478" alt="7" src="https://github.com/safaozdemir/persignaltrade/assets/61314883/367dcfeb-2302-48ba-a795-deb91b832076">
